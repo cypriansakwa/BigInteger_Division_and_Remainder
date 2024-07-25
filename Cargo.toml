@@ -1,5 +1,5 @@
 [package]
-name = "Modular_Division"
+name = "BigInteger_Division_and_Remainder"
 version = "0.1.0"
 edition = "2021"
 
